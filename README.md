@@ -9,8 +9,8 @@
 - $pkg install nodejs -y
 - $pkg install bash
 - $pkg install ffmpeg -y
-- $git clone https://github.com/GetSya/Jojo-Github
-- $cd Jojo-Github
+- $git clone https://github.com/Ground67/Jrepo
+- $cd Jrepo
 - $bash install.sh
 - $npm i multistream
 - $npm i fake-useragent

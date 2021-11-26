@@ -27,7 +27,7 @@
 
 ```bash
 git clone https://github.com/Ground67/Jrepo
-cd Jojo-Github
+cd Jrepo
 npm install
 npm i imgbb-uploader
 npm i multistream
